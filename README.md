@@ -1,7 +1,5 @@
 # COVID-19 Vaccination Analytics Dashboard with Vibe Analytics
 
-![Cumulative Vaccination Progress](images/cumulative-progress.png)
-
 ## 📖 Overview
 This project builds upon my [COVID-19 Vaccination Data Analysis](https://github.com/a7madv4d2/COVID-19-Vaccination-Progress) by developing an advanced interactive dashboard using **Vibe Analytics** integrated with **Plotly**. It provides in-depth visualizations of global COVID-19 vaccination trends, inequalities, progress metrics, and more, drawing from datasets like Our World in Data. The dashboard enables users to explore cumulative progress, distribution disparities, rollout speeds, and vaccine efficiencies through dynamic charts, maps, and heatmaps.
 
